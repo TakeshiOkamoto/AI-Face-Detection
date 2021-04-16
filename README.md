@@ -8,7 +8,7 @@ tf-nightly 2.6.0 (TensorFlow 2.6.0)
   
 It should work with other versions as well.  
   
-## function  
+## Function  
 Detect the face from the image. It also supports multiple faces.  
   
 ## Example of use
