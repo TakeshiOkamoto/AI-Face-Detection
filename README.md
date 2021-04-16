@@ -19,7 +19,7 @@ Detect the face from the image. It also supports multiple faces.
 <img src="https://github.com/TakeshiOkamoto/AI-Face-Detection/blob/main/images/result3.jpg">
 
 ## How to use  
-See object_detection_tutorial.ipynb.  
+See object_detection_tutorial.ipynb (Jupyter notebook).  
 Adjust the value of detection_scores according to your environment.  
 (0.01 to 0.99, default 0.10)  
 
